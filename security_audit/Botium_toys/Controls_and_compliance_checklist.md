@@ -4,30 +4,32 @@ This was completed by the previous documents, refer to the information provided 
 For more details about each control, including the type and purpose, refer to the control categories document.
 
 ## Controls assessment checklist
-Yes No Control
+### Yes No Control:
 
-●       Least Privilege
+● Least Privilege: No
 
-●   ●   Disaster recovery plans
+● Disaster recovery plans: No
 
-● ●     Password policies
+● Password policies: No
 
-● ●     Separation of duties
+● Separation of duties: No
 
-● ● Firewall
+● Firewall: Yes
 
-● ● Intrusion detection system (IDS)
+● Intrusion detection system (IDS): No
 
-● ● Backups
+● Backups: No
 
-● ● Antivirus software
+● Antivirus software: Yes
 
-● ● Manual monitoring, maintenance, and intervention for legacy systems
+● Manual monitoring, maintenance, and intervention for legacy systems: No
 
-● Encryption
+● Encryption: No
 
-● ● Password management system
+● Password management system: No
 
-● ● Locks (offices, storefront, warehouse)
+● Locks (offices, storefront, warehouse): Yes
 
-● ● Closed-circuit television (CCTV) surveillance
+● Closed-circuit television (CCTV) surveillance: Yes
+
+● Fire detection/prevention (fire alarm, sprinkler system, etc.): Yes
