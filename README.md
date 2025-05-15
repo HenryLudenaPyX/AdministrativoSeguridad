@@ -1,4 +1,4 @@
-# AdministrativoSeguridad
-Elementos de Seguridad a nivel administrativo
+# Security Administrative
+## Security elements at the administrative level
 
-Este repositorio contiene ejercicios y simulaciones creados con fines educativos y no representa información real de ninguna organización.
+This repository contains exercises and simulations created for educational purposes and does not represent real-world information from any organization.
