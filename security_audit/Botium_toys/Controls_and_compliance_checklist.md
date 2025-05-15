@@ -80,60 +80,60 @@ For more details about each control, including the type and purpose, refer to th
 ## Recommendations:
 
 ### 1. Technical and Physical Controls:
-*Implement Principle of Least Privilege:*
+***Implement Principle of Least Privilege:***
 
-Limit employee access to only the resources they need for their tasks, limiting unauthorized access.
+● Limit employee access to only the resources they need for their tasks, limiting unauthorized access.
 
-*Develop and implement Disaster Recovery Plan (DRP):*
+***Develop and implement Disaster Recovery Plan (DRP):***
 
-Enable the organization to recover quickly from critical incidents, minimizing downtime.
+● Enable the organization to recover quickly from critical incidents, minimizing downtime.
 
-*Establish strong password policies:*
+***Establish strong password policies:***
 
-Require complex passwords, with periodic renewal and multi-factor authentication (MFA).
+● Require complex passwords, with periodic renewal and multi-factor authentication (MFA).
 
-*Separation of duties:* 
+***Separation of duties:***
 
-Don't concentrate all tasks on one or more employees; instead, divide them. This way, in the event of a user theft, the attacker has fewer privileges.
+● Don't concentrate all tasks on one or more employees; instead, divide them. This way, in the event of a user theft, the attacker has fewer privileges.
 
-*Install Intrusion Detection System (IDS):* 
+***Install Intrusion Detection System (IDS):***
 
-To detect unauthorized access
+● To detect unauthorized access
 
-*Establish a periodic backup system:*
+***Establish a periodic backup system:***
 
-Ensure availability after possible attacks or system failures.
+● Ensure availability after possible attacks or system failures.
 
-*Adopt a password management system:*
+***Adopt a password management system:***
 
-Reduce human errors such as forgotten passwords through a credential management system.
+● Reduce human errors such as forgotten passwords through a credential management system.
 
-*Modernize legacy systems:*
+***Modernize legacy systems:***
 
-Replace manual monitoring with automated tools that detect incidents in real time.
+● Replace manual monitoring with automated tools that detect incidents in real time.
 
 ### 2. Regulatory Compliance
 
-*Control access to credit card information:*
+***Control access to credit card information:***
 
-Only authorized personnel should have access
+● Only authorized personnel should have access
 
-*Securing the card processing environment:*
+***Securing the card processing environment:***
 
-Encrypting the handling of this type of data
+● Encrypting the handling of this type of data
 
-*Establish strong password management policies:*
+***Establish strong password management policies:***
 
-Apply security systems to Point of Sale (POS) terminals
+● Apply security systems to Point of Sale (POS) terminals
 
-*Define clear access policies for all users:*
+***Define clear access policies for all users:***
 
-Define user access level and access continuity
+● Define user access level and access continuity
 
-*Protect the confidentiality of sensitive data (PII/SPII):*
+***Protect the confidentiality of sensitive data (PII/SPII):***
 
-Using encryption, authentication, and staff training
+● Using encryption, authentication, and staff training
 
-*Ensure data integrity:*
+***Ensure data integrity:***
 
-Validate that the data has not been manipulated or deleted
+● Validate that the data has not been manipulated or deleted
