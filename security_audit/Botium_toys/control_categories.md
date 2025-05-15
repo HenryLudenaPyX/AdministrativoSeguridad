@@ -39,4 +39,5 @@ to determine whether an incident has occurred or is in progress. Deterrent contr
 ![image](https://github.com/user-attachments/assets/088b3a1f-03ab-4d2c-8539-3e0dd8ca87bf)
 ![image](https://github.com/user-attachments/assets/50d31255-5684-4bba-940b-2ab0e0f4c383)
 
-
+## References:
+Google. (2025). Play It Safe: Manage Security Risks. Coursera. Recovered from https://www.coursera.org/learn/manage-security-risks
